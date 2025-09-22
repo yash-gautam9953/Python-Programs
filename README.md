@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Projects Collection
 
 A collection of simple Python projects demonstrating various programming concepts and libraries.
